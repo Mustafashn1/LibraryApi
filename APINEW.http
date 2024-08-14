@@ -1,0 +1,6 @@
+@APINEW_HostAddress = http://localhost:5182
+
+GET {{APINEW_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
